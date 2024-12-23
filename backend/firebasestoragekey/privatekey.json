@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-name",
+  "private_key_id": "private-key",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBIAgK3A/i6Vqn\nizY5c147rcPkln+v73mCrxTrjTF5QroBtJJdDsBJfrALK04l7vMtGfFULa4hvM3Y\nzDPMnuGpHY00XxXKRVHIT2VPIEKrKM4K9FRBBLDQIkrrhaqu+CxPgpQJAIOly/8T\nu4HY6iBaga0QF+dC3mnDfslXM/VCi3PSGigNFoIkpXpvMTB+WNpm4Yvxl2k+a6H3\ng8b1L/9vmW/3Nucl85wvZF39NeOYzybYZyYhtZJblVMTLzzbmB4Tb62gVPJducsa\nJWe+IzgxZE2CCbD8lgtwsiqPGHdHBhzy1TyOlrm3XGaBvjH8eL4QdkxmUNMhLvCO\nG8HVj/HFAgMBAAECggEACfybDdy1YZmJm5JiWnQx0ko5EBAMSE/M68ob/dZOUaP2\ntHHfA7rojKRlfB5gKywBHTrzNNQr5gi6aFSe9RzeNH2XuLaWDOCqyv34EjBr4if5\nB6380WPptMmhMC64VdX1jKMG/rQtGpzC8wVGQK5Sv/tmtKdXyShxNa/Pv5erPiaa\nzd/in65iOETvhjp3xa3D0csq2glJb2i7Wa/eXLG14lHOphXZupA49cfSHhqU6a+D\n0pNngAasHtCGgM88EhFL1advkCA9sgHo3hSyi0ejxHQDp2Q/3ZFQdO/hFHS+eT7l\n5EL5WcGMvCujnKcOwf2u7Ip3ZACJosWa1FaUjPUjIQKBgQD6E7pZ5hTF6XiCQDPs\n8SrcJp2x6HTbSl07ZoBDfUOwx9R68KulRF95bRwmE1soBvgeMfWBrzIQ4m2cQAbd\nBE2dhZkWOKrehWrWkPbW74i81FpfCEf/WEf/FMdUwU1wY18hBn8jLLvd0xGfp3et\nfaCHw9LvMSOu8pQcKcTzL+OvuQKBgQDFsv3LUI1p2Ei1KyMvJR9gaK3b6KSYoJLW\ne56qerZnlK5y9NSLMqKZgVXmCRMVSgvL/GO80FHKVMW3erjQJNdjjQ/7+tQDz+DB\nBPJjya33ngS2F92zA+xMsumMu5oB+uPblKVxobFGksH+M0jnXykeyjqsQtquPjkc\n6cjg9l8gbQKBgBqsK/4WqjSJuE68Jk2pU1bzz3IARyZ0ggkp35hTLfsW9TS/oq8X\n4c8DsjLlcZ2NUL13uqXAV+ixHdvCgHjmUpjwfOl/1cmyFTkZcRpvpfft9k2YhoVX\nlyY/wxrpGydXkfflx32q8caxEnoi1ILumUahvkfAx/uK5/0w/06o1vIRAoGAN1lB\nTKaksLlowa/uDcjq2+bypdqgGkr6USoS5c+tOZqarHx29PGcLDXVgq2Ptiog218x\n3S7Fd0v8fr3Q+BUYaDqZ+wXiTZ7pYaCs69sO5YBL+V79Jp02jtKYKFptZ5iCKnuX\nRhTquMNlpHFfO8ecj442lvuwlY++FaYuIy1WvJECgYBdRSlsoFyX249mgHzIFc3L\nODV2wH7c/LlrlARxFJBezNEOBoZo+9vSCNoXK0PKrjMzt1l+6Ec9s++jMLQppRAN\n5+0h/jEjBcidq7H5txGd8VM4byGTkxyivJl8acSy5BLCAxHkAhxKxMJ6qjLbxKJs\n7nEtoqr1kHBEClN5Wk03Iw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-client-email",
+  "client_id": "client-id",
+  "auth_uri": "auth_url",
+  "token_uri": "token_url",
+  "auth_provider_x509_cert_url": "authprovider",
+  "client_x509_cert_url": "url**********************",
+  "universe_domain": "googleapis.com"
+}
