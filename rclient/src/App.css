@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .react-tel-input input{
+    @apply outline-none bg-inherit
+} */
